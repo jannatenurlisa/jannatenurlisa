@@ -1,6 +1,6 @@
 # 👋 리사 왔어요~ 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&width=700&font=Press+Start+2P&lines=😎+Hi,+Lisa+Here+✨;💻+데이터+분석+중+📊🔍;✨+Turning+data+into+magic!+💡;🔍+Crunching+numbers…;Catching+insights+📈&duration=3000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&width=700&font=Press+Start+2P&lines=😎+Hi,+Lisa+Here+✨;💻+데이터+분석+중+📊🔍;✨+Turning+data+into+magic!+💡;🔍+Crunching+numbers…;Catching+insights+📈&duration=3500)](https://git.io/typing-svg)
 
 
 
