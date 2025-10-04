@@ -4,7 +4,7 @@
 
 📊 CSE Student | Exploring Data Analysis  
 🌱 Learning Python, SQL & Excel for data insights  
-🌸 안녕하세요! 저는 리사입니다 — 데이터 분석을 배우고 있어요 🇰🇷  
+🌸 안녕하세요! 저는 리사입니다 — 데이터 분석을 배우고 있어요
 🚀 This GitHub is my space for data codes & projects  
 
 ---
@@ -22,10 +22,5 @@ Python | SQL | Excel | Pandas | Matplotlib
 ---
 
 ✨ *Simple steps → 꾸준함 → big insights.*
-
-
----
-
-✨ *Small steps + 꾸준함 = Big Data Magic! ✨*
 
 
