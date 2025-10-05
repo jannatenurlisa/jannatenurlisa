@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lisa  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FFFF&center=true&width=600&font=Press+Start+2P&lines=👋+리사+왔어요~+✨;🔍+데이터+분석+중+📊;🐍+Learning+Python+%26+SQL+💻;📊+Aspiring+Data+Analyst+✨;💡+Turning+data+into+magic+✨;🔍+Crunching+numbers…;📈+Catching+insights+💫&duration=4000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FFFF&center=true&width=600&font=Press+Start+2P&lines=👋+리사+왔어요~+✨;🔍+데이터+분석+중+📊;🐍+Learning+Python+%26+SQL+💻;📊+Aspiring+Data+Analyst+✨;💡+Turning+data+into+magic+✨;🔍+Crunching+numbers…;📈+Catching+insights+💫&duration=3000)](https://git.io/typing-svg)
 
 📊 CSE Student | Exploring Data Analysis  
 🌱 Learning Python, SQL & Excel for data insights  
