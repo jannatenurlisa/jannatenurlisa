@@ -33,11 +33,6 @@
 | 03 | [Demo Personal Portfolio](https://jannatenurlisa.github.io/Personal-portfolio-demo/) | HTML · CSS · JS | ✅ Live |
 | 04 |  [E-Commerce Churn Analysis](https://github.com/jannatenurlisa/Ecommerce-Churn-Analysis) | Python · Pandas · Seaborn | ✅ Done |
 
----
-
-### 📊 GitHub Stats
-
-![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannatenurlisa&show_icons=true&theme=dark&title_color=e8333a&icon_color=c0392b&border_color=e8333a&hide_border=false)
 
 ---
 
